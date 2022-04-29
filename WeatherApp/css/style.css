@@ -43,6 +43,7 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+  border-radius: 50%;
 }
 
 ul {
@@ -81,6 +82,7 @@ body {
   position: relative;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .top-banner form input {
@@ -276,4 +278,19 @@ body {
 
 .api a:hover {
   text-decoration: none;
+}
+
+/* ------------ */
+
+.city-container {
+  border: 3px solid #fff ;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #517ecc;
+}
+
+figcaption {
+  font-size: 20px;
+  color:#ccc;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
