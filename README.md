@@ -7,21 +7,21 @@ You can copy the whole link for any project and paste search bar due to make the
 Enjoy coding...
 #
 
-1 --> JS Dom-EventListener --> https://ersenozturk.github.io/Javascript-Exercises/add-delete-item(basic)/  
-2 --> ping-pong-game --> https://ersenozturk.github.io/Javascript-Exercises/ping-pong-game/  
-3 --> add-delete-item(intermediate) --> https://ersenozturk.github.io/Javascript-Exercises/add-delete-item(intermediate)/  
-4 --> todoApp(advanced) --> https://ersenozturk.github.io/Javascript-Exercises/todoApp(advanced)/  
-5 --> todoApp(createdDoubleList) --> https://ersenozturk.github.io/Javascript-Exercises/todoApp(createdDoubleList)/  
-6 --> number-guessing-game --> https://ersenozturk.github.io/Javascript-Exercises/number-guessing-game/  
-7 --> exact-age-calculator --> https://ersenozturk.github.io/Javascript-Exercises/exact-age-calculator/  
-8 --> spinner --> https://ersenozturk.github.io/Javascript-Exercises/spinner/  
-9 --> lucky-numbes --> https://ersenozturk.github.io/Javascript-Exercises/lucky-numbes/  
-10 --> checkout -Js --> https://ersenozturk.github.io/Javascript-Exercises/checkout-Js/  
-11 --> Check-Daily-Routine --> https://ersenozturk.github.io/Javascript-Exercises/Check-Daily-Routine/  
-12 --> iphone-calculator --> https://ersenozturk.github.io/Javascript-Exercises/iphone-calculator/  
-13 --> JSON-exercise1 --> https://ersenozturk.github.io/Javascript-Exercises/JSON-exercise1/  
-14 --> questionApp --> https://ersenozturk.github.io/Javascript-Exercises/questionApp/  
-15 --> profileFinderFromApi --> https://ersenozturk.github.io/Javascript-Exercises/profileFinderFromApi/  
-16 --> registerUserPage-axios-exercise --> https://ersenozturk.github.io/Javascript-Exercises/registerUserPage-axios-exercise/  
-17 --> weather-app --> https://ersenozturk.github.io/Javascript-Exercises/weather-app/  
-18 --> country-neighbours --> https://ersenozturk.github.io/Javascript-Exercises/country-neighbours/  
+1 --> JS Dom-EventListener --> https://mikaildokgoz.github.io/JavaScriptProject/AddDeleteItem(basic)
+2 --> ping-pong-game --> https://mikaildokgoz.github.io/JavaScriptProject/PingPong-Game
+3 --> add-delete-item(intermediate) --> https://mikaildokgoz.github.io/JavaScriptProject/AddDeleteItem(intermediate)
+4 --> todoApp(advanced) --> https://mikaildokgoz.github.io/JavaScriptProject/todoApp(advanced)
+5 --> todoApp(createdDoubleList) --> https://mikaildokgoz.github.io/JavaScriptProject/todoApp(createdDoubleList)
+6 --> number-guessing-game --> https://mikaildokgoz.github.io/JavaScriptProject/NumberGuessing-Game
+7 --> exact-age-calculator --> https://mikaildokgoz.github.io/JavaScriptProject/ExactAgeCalculator
+8 --> spinner --> https://mikaildokgoz.github.io/JavaScriptProject/SpinnerCalculator
+9 --> lucky-numbes --> https://mikaildokgoz.github.io/JavaScriptProject/LotteryGame
+10 --> checkout -Js --> https://mikaildokgoz.github.io/JavaScriptProject/CheckoutPage
+11 --> Check-Daily-Routine --> https://mikaildokgoz.github.io/JavaScriptProject/CheckDailyRoutine
+12 --> iphone-calculator --> https://mikaildokgoz.github.io/JavaScriptProject/IOS_Calculator
+13 --> JSON-exercise1 --> https://mikaildokgoz.github.io/JavaScriptProject/JSON-Exercise
+14 --> questionApp --> https://mikaildokgoz.github.io/JavaScriptProject/questionApp
+15 --> profileFinderFromApi --> https://mikaildokgoz.github.io/JavaScriptProject/profileFinderFromApi
+16 --> registerUserPage-axios-exercise --> https://mikaildokgoz.github.io/JavaScriptProject/RegisterUserPage-AxiosExercise
+17 --> weather-app --> https://mikaildokgoz.github.io/JavaScriptProject/WeatherApp
+18 --> country-neighbours --> https://mikaildokgoz.github.io/JavaScriptProject/CountryNeighbours
