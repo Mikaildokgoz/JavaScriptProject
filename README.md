@@ -43,3 +43,8 @@ Enjoy coding...
 
 18 --> country-neighbours --> https://mikaildokgoz.github.io/JavaScriptProject/CountryNeighbours  
 
+19 --> portfolio_SASS_project --> https://mikaildokgoz.github.io/JavaScriptProject/Portfolio_SASS_Project
+
+20 --> restApi_HTTP_GetRequest --> https://mikaildokgoz.github.io/JavaScriptProject/restApi-HTTPGetRequest/
+
+
