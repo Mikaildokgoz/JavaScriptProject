@@ -8,20 +8,38 @@ Enjoy coding...
 #
 
 1 --> JS Dom-EventListener --> https://mikaildokgoz.github.io/JavaScriptProject/AddDeleteItem(basic)  
+
 2 --> ping-pong-game --> https://mikaildokgoz.github.io/JavaScriptProject/PingPong-Game 
+
 3 --> add-delete-item(intermediate) --> https://mikaildokgoz.github.io/JavaScriptProject/AddDeleteItem(intermediate)  
+
 4 --> todoApp(advanced) --> https://mikaildokgoz.github.io/JavaScriptProject/todoApp(advanced)  
+
 5 --> todoApp(createdDoubleList) --> https://mikaildokgoz.github.io/JavaScriptProject/todoApp(createdDoubleList)  
+
 6 --> number-guessing-game --> https://mikaildokgoz.github.io/JavaScriptProject/NumberGuessing-Game 
+
 7 --> exact-age-calculator --> https://mikaildokgoz.github.io/JavaScriptProject/ExactAgeCalculator  
+
 8 --> spinner --> https://mikaildokgoz.github.io/JavaScriptProject/SpinnerCalculator  
+
 9 --> lucky-numbes --> https://mikaildokgoz.github.io/JavaScriptProject/LotteryGame 
+
 10 --> checkout -Js --> https://mikaildokgoz.github.io/JavaScriptProject/CheckoutPage 
+
 11 --> Check-Daily-Routine --> https://mikaildokgoz.github.io/JavaScriptProject/CheckDailyRoutine 
+
 12 --> iphone-calculator --> https://mikaildokgoz.github.io/JavaScriptProject/IOS_Calculator  
+
 13 --> JSON-exercise1 --> https://mikaildokgoz.github.io/JavaScriptProject/JSON-Exercise  
+
 14 --> questionApp --> https://mikaildokgoz.github.io/JavaScriptProject/questionApp 
+
 15 --> profileFinderFromApi --> https://mikaildokgoz.github.io/JavaScriptProject/profileFinderFromApi 
+
 16 --> registerUserPage-axios-exercise --> https://mikaildokgoz.github.io/JavaScriptProject/RegisterUserPage-AxiosExercise  
+
 17 --> weather-app --> https://mikaildokgoz.github.io/JavaScriptProject/WeatherApp  
+
 18 --> country-neighbours --> https://mikaildokgoz.github.io/JavaScriptProject/CountryNeighbours  
+
